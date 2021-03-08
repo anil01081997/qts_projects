@@ -17,4 +17,11 @@ def assignment2(list,n):
     for i in list:
         if i==n:
             count=count+1
-        print(count)
+    print(count)
+
+def assignment3(n):
+    print("slolution of assignment 3 by Pratiksha" + "-" * 50)
+    for i in range(1,n+1):
+        for j in range(i,n):
+            print(i,end='')
+        print()
