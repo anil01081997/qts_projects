@@ -1,4 +1,4 @@
-print("\nSolution By Master-----------")
+oprint("\nSolution By Master-----------")
 
 
 def even_odd(test_list):
