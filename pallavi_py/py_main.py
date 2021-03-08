@@ -14,6 +14,7 @@ def assignment_1(list_data):
     print(odd_str + (',').join(odd))
 
 def assignment_2(list_2,num):
+
     print("Solution of assignment 2 by pallavi"+"-"*50)
     count=0
     for i in list_2:
