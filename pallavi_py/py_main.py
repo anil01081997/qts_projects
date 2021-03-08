@@ -18,7 +18,7 @@ def assignment_2(list_2,num):
     count=0
     for i in list_2:
         if i == num:
-            count= count + 1
+            count = count + 1
     print(count)
 
 def assignment_3(n):
