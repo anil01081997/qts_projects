@@ -1,6 +1,5 @@
 from assignments import assign1_input, assign2_input_1, assign2_input_2, assign3_input
 
-from assignments import assign1_input, assign2_input_1,assign2_input_2
 
 def first_assignment():
     print("\n"+"-" * 50 + " Assignment - 1 " + "-" * 50)
