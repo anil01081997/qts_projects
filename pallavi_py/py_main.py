@@ -1,4 +1,5 @@
 from assignments import assign1_input
+
 def assignment_1(list_data):
     print("Solution of assignment 1 by pallavi"+"-"*50)
     even_str = 'Even numbers are '
