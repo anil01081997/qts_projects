@@ -23,5 +23,5 @@ def assignment3(n):
     print("slolution of assignment 3 by Pratiksha" + "-" * 50)
     for i in range(1,n+1):
         for j in range(i,n):
-            print(i,end='')
+            print(i,end=' ')
         print()
