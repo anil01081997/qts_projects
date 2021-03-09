@@ -14,3 +14,14 @@ assign1_input = [12, 34, 45, 83, 342, 21, 435, 234, 12, 532, 12, 45]
 
 assign2_input_1 = [12, 45, 56, 23, 45, 56, 45, 23]
 assign2_input_2 = 45
+
+# 3.Inverted Pyramid pattern with numbers
+# Example:
+# Input : 5
+# Output:
+# 1 1 1 1 1
+# 2 2 2 2
+# 3 3 3
+# 4 4
+# 5
+assign3_input = 6
