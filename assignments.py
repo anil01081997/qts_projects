@@ -24,3 +24,20 @@ assign2_input_2 = 45
 # 4 4
 # 5
 assign3_input = 6
+
+# 4. Write a function which take  input, and produce the o/p as below using loop .
+# Input : Python Tutorial
+# Output : lairotuT nohtyP
+assign4_input = "Hey Genius"
+
+# 5.Write a function which take  input, and produce output as below .
+# Input: "Python"
+# Output : The incremental reverse strings : ['n', 'no', 'noh', 'noht', 'nohty', 'nohtyP']
+assign5_input = "Programmer"
+
+# 6.  Write a Python program to combine two dictionary get average values for common keys. Go to the editor
+# d1 = {'a': 100, 'b': 200, 'c':300}
+# d2 = {'a': 300, 'b': 200, 'c':400}
+# Sample output: Counter({'a': 200, 'b': 200, 'c': 350})
+assign6_input_1 = {'t_k1': 12, 't_k2': 18, 'tk_3': 20}
+assign6_input_2 = {'t_k1': 10, 't_k4': 58, 'tk_3': 27}
